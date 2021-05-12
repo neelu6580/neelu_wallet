@@ -1,0 +1,6 @@
+{
+    "require": {
+        "barryvdh/laravel-dompdf": "^0.9.0",
+        "easypost/easypost-php": "^3.4"
+    }
+}
